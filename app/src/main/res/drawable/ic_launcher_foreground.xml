@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 펼친 책 모양의 단순한 아이콘 (108dp 캔버스, 중앙 72dp 안전 영역) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFF5F5F5"
+        android:pathData="M30,38 C38,35 46,35 53,39 L53,72 C46,68 38,68 30,71 Z" />
+    <path
+        android:fillColor="#FFDDE6F2"
+        android:pathData="M55,39 C62,35 70,35 78,38 L78,71 C70,68 62,68 55,72 Z" />
+    <path
+        android:fillColor="#FF7FB2FF"
+        android:pathData="M62,44 L72,44 L72,47 L62,47 Z M62,51 L72,51 L72,54 L62,54 Z M62,58 L69,58 L69,61 L62,61 Z" />
+</vector>
